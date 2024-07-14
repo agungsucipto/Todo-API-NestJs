@@ -14,7 +14,7 @@ Request Body :
 {
   "title": "Backend API",
   "description": "Create API For Todo APP" ,
-  "status": "pending
+  "status": "pending"
 }
 ```
 
@@ -26,7 +26,7 @@ Response Body (Success):
     "id": 1,
     "title": "Backend API",
     "description": "Create API For Todo APP" ,
-    "status": "pending
+    "status": "pending"
   }
 }
 ```
@@ -55,7 +55,7 @@ Response Body (Success):
     "id": 1,
     "title": "Backend API",
     "description": "Create API For Todo APP" ,
-    "status": "pending
+    "status": "pending"
   }
 }
 ```
@@ -82,7 +82,7 @@ Request Body :
 {
   "title": "Backend API",
   "description": "Create API For Todo APP" ,
-  "status": "pending
+  "status": "pending"
 }
 ```
 
@@ -94,7 +94,7 @@ Response Body (Success):
     "id": 1,
     "title": "Backend API",
     "description": "Create API For Todo APP" ,
-    "status": "pending
+    "status": "pending"
   }
 }
 ```
